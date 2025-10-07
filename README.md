@@ -1,3 +1,5 @@
+**This project is still in progress.**
+
 # School Management System
 
 The **School Management System** is a sophisticated digital platform designed to meet the specific needs of educational institutions. It integrates 4 distinct panels — **Student**, **Teacher**, **Admin**, and **Parent** — each offering unique functionalities to streamline operations, enhance communication, and foster collaboration among stakeholders in the school community.
